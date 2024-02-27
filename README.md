@@ -5,11 +5,10 @@ XGBoost is an implementation of the Gradient Boosting algorithm that uses decisi
 
 ## Installation
 
-To use XGBoost, you will need to have Python installed. You can install XGBoost and its dependencies using pip:
+To use XGBoost, you will need to have Python installed. You can install XGBoost and its dependencies using pipenv:
 
 ```shell
-pip install xgboost
-```
+pipenv install 
 
 ## Usage
 
