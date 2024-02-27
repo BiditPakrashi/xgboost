@@ -1,4 +1,6 @@
+Apologies for the confusion. Here's the updated README file with the corrected formatting:
 
+```markdown
 # XGBoost
 
 XGBoost is an implementation of the Gradient Boosting algorithm that uses decision trees as base learners. This implementation supports both binary and multi-class classification problems.
@@ -9,6 +11,7 @@ To use XGBoost, you will need to have Python installed. You can install XGBoost 
 
 ```shell
 pipenv install 
+```
 
 ## Usage
 
@@ -52,4 +55,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Feel free to modify this template to fit the specific needs of your project. Let me know if you have any further questions!
+Please let me know if there's anything else I can help you with!
